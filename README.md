@@ -25,7 +25,7 @@ Deployment
  <li>Setup the Apache server and MySQL through XAMPP or a distribution software of your choice.</li>
  <li>Start the apache server and MySQL.</li>
  <li>Clone the project to your server's default path.</li>
- <li>Go to <b><i>localhost/phpmyadmin/</i></b> on your web browser and navigate to <b>Import</b>, and select the SQL dump file <b><i>mts1_dump.sql</i></b> present in the <b><i>Content/</i></b> folder, and select Go. The database of the the factory cargo will be created.
+ <li>Go to <b><i>localhost/phpmyadmin/</i></b> on your web browser, navigate to <b>Import</b>, select the SQL dump file <b><i>mts1_dump.sql</i></b> present in the <b><i>Content/</i></b> folder, and select Go. The database of the the factory cargo will be created.
  <li>Run the app on your web browser at <b><i>localhost/Factory-Cargo-Allocation/content/index.php</i></b>.</li>
  <li>Search for an item and required quantity in the interface.</li>
 </ul>
