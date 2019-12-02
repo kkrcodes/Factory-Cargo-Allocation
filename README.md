@@ -35,3 +35,8 @@ Screenshots
 <img src="content/screenshots/UI.PNG" alt="Cargo Allocation System UI" title="Cargo Allocation System UI">
 <img src="content/screenshots/input.PNG" alt="Entering input" title="Entering input">
 <img src="content/screenshots/search.PNG" alt="Search results" title="Search results">
+
+## License
+
+The content of this repository is licensed under a
+[GNU General Public License v3.0](LICENSE).
