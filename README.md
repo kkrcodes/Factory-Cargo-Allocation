@@ -14,7 +14,7 @@ Inventory management system for an automotive parts factory to store and locate 
 --------------
 <ul>
  <li>PHP</li>
- <li>Apache</li>
+ <li>Apache Server</li>
  <li>MySQL</li>
  <li>phpMyAdmin</li>
 </ul>
