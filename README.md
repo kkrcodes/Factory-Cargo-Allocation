@@ -1,5 +1,5 @@
 # Factory-Cargo-Allocation
- A web-based factory cargo allocation system to allocate cargo efficiently in a factory.
+Inventory management system for an automotive parts factory to store and locate cargo efficiently based on requirements to automate manual processing. The system reduced workers’ time and effort required to store and locate cargo.
  
  How it works
  ------------
